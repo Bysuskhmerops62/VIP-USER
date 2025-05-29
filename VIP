@@ -1,6 +1,6 @@
 local Vip = {
     ["bysuskhmer"] = true,
-    ["ghbsd33"] = true
+    ["ghbsd33"] = false
 }
 
 return Vip
